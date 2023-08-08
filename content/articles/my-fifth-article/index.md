@@ -4,7 +4,7 @@ description: "Let's talk about Datasets. What exactly is a dataset? how do peopl
 date: "2021-02-21"
 banner:
   src: "../../images/data-cleaning.png"
-  alt: "First Markdown Post"
+  alt: "how to clean data"
 categories:
   - "Data Analytics"
   - "Data"
