@@ -1,14 +1,12 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Data nerd at a desk"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hey there, I'm Gilbert King, a data enthusiast with an insatiable love for unraveling the mysteries hidden in numbers! As a senior data analyst, I've accumulated an impressive bag of tricks, including Excel, SQL, Python, Google Analytics, and more! You can find me hanging out on LinkedIn, where I love connecting with fellow data aficionados and sharing my exciting data adventures. When I'm not diving into data, you might catch me sipping coffee, dreaming up colorful data visualizations, and having a blast with my friends.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Beyond the data world, I'm also a champion of the community. During my time at Lightship Capital, I had the incredible opportunity to help start-ups raise funds and grow, showcasing that my skills go beyond just numbers. So, if you ever need some data-driven wisdom, a great conversation over coffee, or someone to geek out about data with, I'm your friendly go-to guy! Let's connect, and together, we'll explore the fascinating world of data, one insight at a time!
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<!--Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+--->
