@@ -17,6 +17,7 @@ public
 .vscode
 .gitignore
 notes.txt
+gatsby-config.js 
 
 # misc
 .DS_Store
