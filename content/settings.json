@@ -21,6 +21,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "https://linktr.ee/gilbertbking" },
         { "label": "Github", "url": "https://github.com/gilb03" }
       ],
       "ctaButton": {

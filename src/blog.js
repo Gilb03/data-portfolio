@@ -1,8 +1,6 @@
 import React from "react";
 import {
-  AboutSection,
   HeroSection,
- /* InterestsSection,*/
   Page,
   ProjectsSection,
   Seo,
@@ -14,8 +12,6 @@ export default function IndexPage() {
       <Seo title="Senior Data Analyst" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <AboutSection sectionId="about" heading="About Me" />
-      {/* <InterestsSection sectionId="details" heading="Details" />*/}
       <ProjectsSection sectionId="features" heading="Built-in Features" />
       </Page>
     </>
