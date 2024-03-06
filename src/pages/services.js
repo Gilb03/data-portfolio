@@ -20,8 +20,9 @@ const ServicesPage = () => (
                 Features
               </li>
               <li>Centralized Teams</li>
-              <li>Version History</li>
-              <li>Plugin Administrator</li>
+              <li>Podcast Editing</li>
+                <li>SEO Strategy & Execution</li>
+              <li>Mixing and Mastering</li>
               <li>Facebook & Instagram Ads</li>
               <li>Design System Analytics</li>
               <li>Unlimited cloud storage</li>
@@ -33,8 +34,8 @@ const ServicesPage = () => (
               <li className="header">
                 Starter
                 <br />
-                <span className="dollar">0</span>
-                <p>per user per month</p>
+                <span className="dollar">25</span>
+                <p>per episode per month</p>
                 <div className="button_cont" align="center">
                   <a className="btn" target="_blank" rel="nofollow noopener">
                     Go Starter
@@ -67,8 +68,8 @@ const ServicesPage = () => (
               <li className="header">
                 Professional
                 <br />
-                <span className="dollar">25</span>
-                <p>per user per month</p>
+                <span className="dollar">50</span>
+                <p>per episode per month</p>
                 <div className="button_cont" align="center">
                   <a className="btn" target="_blank" rel="nofollow noopener">
                     Go Professional
@@ -101,7 +102,7 @@ const ServicesPage = () => (
               <li className="header">
                 Organization
                 <br />
-                <span className="dollar">50</span>
+                <span className="dollar">250</span>
                 <p>per user per month</p>
                 <div className="button_cont" align="center">
                   <a className="btn" target="_blank" rel="nofollow noopener">
