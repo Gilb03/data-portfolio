@@ -1,4 +1,4 @@
-import "./App.css";
+import "./app.css";
 import React from "react";
 import { BiCheckboxSquare } from "react-icons/bi";
 import { Page, Seo } from "gatsby-theme-portfolio-minimal";
