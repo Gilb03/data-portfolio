@@ -9,7 +9,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Senior Data Analyst" />
+      <Seo title="Audio Engineer" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
       <ProjectsSection sectionId="features" heading="Built-in Features" />

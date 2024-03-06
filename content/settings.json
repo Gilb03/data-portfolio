@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Data Analyst",
+    "title": "Marketing Technologist",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Gil King",
@@ -16,18 +16,18 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Data Analytics" },
+    "logo": { "text": "Gil B." },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Projects", "url": "https://linktr.ee/gilbertbking" },
-        { "label": "Github", "url": "https://github.com/gilb03" }
+        {"label": "Services", "url": "/services" },
+        { "label": "Projects", "url": "https://linktr.ee/gilbertbking" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/Gilbert King's 2023 Resume.pdf"
+        "label": "Consult Now",
+        "url": "https://d6jqoj1awxa.typeform.com/to/dqYTXxIq"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
