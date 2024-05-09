@@ -91,7 +91,8 @@
   }
   p {
     font-family: Arial;
-    font-size: 9px;
+    font-size: 15px;
+    font-style:normal;
   }
   
   /* .column {
